@@ -5,7 +5,7 @@ def line(katz_deli)
       currently << "#{index+1}. #{name}"
     end
     puts currently
-  else katz_deli.length == 0
+  else
     puts "The line is currently empty."
   end
 end 
