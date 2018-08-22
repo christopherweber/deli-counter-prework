@@ -11,5 +11,5 @@ def line(katz_deli)
 end 
 
 def take_a_number(katz_deli, name)
-  puts ""
+  puts "Welcome, #{name}. You are number #{katz_deli.push} in line."
 end
