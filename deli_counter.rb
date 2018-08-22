@@ -1,2 +1,2 @@
 def line(katz_deli)
-  if 
+  if katz_deli.length = 
